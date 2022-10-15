@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekaterina Pykhteeva</h1>
 <h3 align="center">A passionate software engineer!</h3>
 
+
 - 🔭 I’m currently working on my project **Job seeker app**
 
 - 🌱 I’m currently learning **Spring boot & Java**
