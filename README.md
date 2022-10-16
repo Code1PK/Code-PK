@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my project **Job seeker app**
 
-- 🌱 I’m currently learning **Spring boot & Java**
+- 🌱 I’m currently learning **Spring Boot & Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Code1PK](https://github.com/Code1PK)
 
