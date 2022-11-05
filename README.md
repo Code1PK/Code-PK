@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer!</h3>
 
 
-- 🔭 I’m currently working on my project **Job seeker app** [Job-Seeker-Web-App](https://github.com/Code1PK/Job-Seeker-Web-App)
+- 🔭 I’m currently working on my project [**Job Organizer Web App**](https://github.com/Code1PK/Job-Seeker-Web-App)
 
 - 🌱 I’m currently learning **Spring Boot & Java**
 
