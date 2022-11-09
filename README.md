@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Boot & Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Code1PK](https://github.com/Code1PK)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Code1PK)
 
 - 💬 Ask me about **Java, JavaScript, SQL**
 
