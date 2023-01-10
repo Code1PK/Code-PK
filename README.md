@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my project [**Job Organizer Web App**](https://github.com/Code1PK/Job-Seeker-Web-App)
 
-- 🌱 I’m currently learning **Spring Boot & Java**
+- 🌱 I’m currently learning **Spring Security**
 
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/Code1PK)
 
